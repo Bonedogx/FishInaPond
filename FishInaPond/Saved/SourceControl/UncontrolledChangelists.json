@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/GitRep/FishInaPond/FishInaPond/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"Z:/GitRep/FishInaPond/FishInaPond/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"Z:/GitRep/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5D/XV8WWUZC4PBL5J9E0QVMKK.uasset",
 				"C:/Users/nlara/OneDrive/Documents/GitHub/FishInaPond/FishInaPond/Content/LevelPrototyping/Meshes/M_Prop_Kelp.uasset",
 				"C:/Users/nlara/OneDrive/Documents/GitHub/FishInaPond/FishInaPond/Content/LevelPrototyping/Materials/M_Prop_Kelp.uasset",
 				"C:/Users/nlara/OneDrive/Documents/GitHub/FishInaPond/FishInaPond/Content/Characters/PlayerModel/SK_Player_Fish.uasset",
@@ -171,8 +174,7 @@
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/SJ/8O753XQYAG8OHMJFHSARUC.uasset",
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DU/1EEJW1RAQOK7VQNP48X74Q.uasset",
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TN/ZUZXKSDGYEJNAK7D1TVTVI.uasset",
-				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9T/RMJR3XOC0C4X80HRP4997E.uasset",
-				"Z:/GitRep/FishInaPond/FishInaPond/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9T/RMJR3XOC0C4X80HRP4997E.uasset"
 			]
 		}
 	]
