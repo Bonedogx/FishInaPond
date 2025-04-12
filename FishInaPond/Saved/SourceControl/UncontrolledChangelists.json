@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Characters/Mannequins/Materials/M_Mannequin.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/ProtoAssets/M_Kelp.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Maps/MaterialTest.umap",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/ProtoAssets/M_Kelp2Test.uasset",
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/LevelPrototyping/ProtoAssets/ProtoCoral.uasset",
 				"C:/Users/Bubal/Desktop/GamesUnreal/FishInaPond/FishInaPond/Content/LevelPrototyping/ProtoAssets/ProtoKelp.uasset",
