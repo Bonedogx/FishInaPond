@@ -1,0 +1,3 @@
+"Name","Platform","Compiles","CompilesDouble","Uses","UsesDouble","PermutationString"
+"/Game/Characters/OilMonsters/M_Oil.M_Oil","0","22","0","0","0","Compiling M_Oil: Platform=PCD3D_SM5, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=1, Usage={bUsedWithSkeletalMesh,bUsedWithNanite}"
+"/Game/Characters/OilMonsters/M_Oil.M_Oil","49","58","0","0","0","Compiling M_Oil: Platform=PCD3D_SM6, Usage=LightingModel=MSM_DefaultLit, BlendMode=BLEND_Opaque, SpecialEngine=0, TwoSided=0, TSNormal=1, Masked=0, Distorted=0, WritesEveryPixel=1, ModifiesMeshPosition=1, Usage={bUsedWithSkeletalMesh,bUsedWithNanite}"

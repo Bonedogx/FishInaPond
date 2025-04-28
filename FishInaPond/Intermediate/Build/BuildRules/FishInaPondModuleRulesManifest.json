@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\GitRepos\\FishInaPond\\FishInaPond\\Intermediate\\Source\\FishInaPond.Build.cs",
+		"C:\\GitRepos\\FishInaPond\\FishInaPond\\Intermediate\\Source\\FishInaPond.Target.cs",
+		"C:\\GitRepos\\FishInaPond\\FishInaPond\\Intermediate\\Source\\FishInaPondClient.Target.cs",
+		"C:\\GitRepos\\FishInaPond\\FishInaPond\\Intermediate\\Source\\FishInaPondEditor.Target.cs",
+		"C:\\GitRepos\\FishInaPond\\FishInaPond\\Intermediate\\Source\\FishInaPondServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
