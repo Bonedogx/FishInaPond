@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOIL2.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOILSONG2.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/Maps/M_LevelV2.umap",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/Systems/AI/BP_OilBlobHandler.uasset",
