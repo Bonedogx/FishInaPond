@@ -56,12 +56,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AD8F7A21F745114E3E70CD06A8AC614875B2775E",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Sandstone"
-			]
-		},
-		{
 			"ShaderMapHash": "BB4001243AEC2B89AC0FABD40E635DB811D24865",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -89,6 +83,12 @@
 			"ShaderMapHash": "C9EF6D30611DF311EC9F7CF823D4E2D4F62237DB",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7C50A7322253FA79028BDC9F47B16EFE56683A3F",
+			"Assets": [
+				"/Game/Maps/M_LevelV2"
 			]
 		},
 		{
@@ -268,27 +268,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FD870B7BABDC4BDCAEFA36920DF43A6332EC099A",
-			"Assets": [
-				"/Game/Maps/M_LevelV2"
-			]
-		},
-		{
-			"ShaderMapHash": "AA87B37CEF0DD2E97BF964C3896BC3B0F7BE910E",
-			"Assets": [
-				"/Game/ProtoAssets/M_Kelp"
-			]
-		},
-		{
 			"ShaderMapHash": "B3E1F580D4E70A8E9D7F2A2B5522D72EE29B6A81",
 			"Assets": [
 				"/Game/Maps/PostProcess_Underwater/Underwater_Haze"
-			]
-		},
-		{
-			"ShaderMapHash": "B5A0DA8173B641640E4A250C54F3D0830D319DBA",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -298,9 +280,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B69AD285B275CA4EC33669E592BBDD9F4DB018F2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
 			"ShaderMapHash": "60FAA787B149DBAF3B42FFE5BF55CF63912D6B92",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CA83D887357702E037AA25445644833D4702BB0D",
+			"Assets": [
+				"/Game/CellShader/MaterialsShade/CellShading/M_Cell"
+			]
+		},
+		{
+			"ShaderMapHash": "21E3F187ABE0647B0E48C3F8A83074EE5DEA37F7",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -418,6 +418,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7D5A44A7FE71E44979DAE0C5CFB0AD7E6B792189",
+			"Assets": [
+				"/Game/Maps/M_LevelV2"
+			]
+		},
+		{
 			"ShaderMapHash": "CBC022A8ABA7B0144A973DEE3EEF21A0F81E82C0",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
@@ -454,9 +460,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B08335B55C8FCA6C16F3E5D0EEF55A19DF260194",
+			"Assets": [
+				"/Game/Player/Blueprints/M_ScreenDMG"
+			]
+		},
+		{
 			"ShaderMapHash": "CB3315B8AE79D1FA8274C894109EC75444761693",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "883B5DB9ECAC0BC017A907CEDFAE36A1E0B748C7",
+			"Assets": [
+				"/Game/VFX/NewNiagaraSystem2"
 			]
 		},
 		{
@@ -502,6 +520,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1CB07DC53BA6B720FDD2EA5A64D9AF85D98E02F9",
+			"Assets": [
+				"/Engine/EditorMaterials/Utilities/LinearColorPicker_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "D71594C921688AF8AB174E9EDAB0E72C911DEE7D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -542,6 +566,12 @@
 			"ShaderMapHash": "F6DB64D84DB2C5C862490BC3682AA6ED00D0109F",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "922D47D9D15FEA4DFC2374BF980E0085FBAD0C09",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
 			]
 		},
 		{
@@ -599,6 +629,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A70520E657AF37A035702E4A3463BD1DC4A091D8",
+			"Assets": [
+				"/Game/ProtoAssets/M_Kelp"
+			]
+		},
+		{
 			"ShaderMapHash": "A7CDEFE64E9F9FCE768B8A23451AE5E9D897AD06",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
@@ -644,6 +680,12 @@
 			"ShaderMapHash": "C9EC23F80E8133EC2376A04489462C7F2F7CF2E2",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3CCA4F9BCFD5180DD0ECB871F7052836A8599E6",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
 			]
 		},
 		{

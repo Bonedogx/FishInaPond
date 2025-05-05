@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOIL2.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOILSONG2.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/UI/DeathMenu.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/UI/GameWin.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/UI/FIshGameOver.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/UI/WBP_PauseMenu.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/ProtoAssets/ProtoKelp.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Player/Blueprints/BP_PlayerHealth.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Maps/M_LevelV2.umap",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/under-water-sound-fx.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/under-water-sound-fx_Cue.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/CellShader/MaterialsShade/MaterialsFunctionShade/MF_CellShading.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/CellShader/MaterialsShade/CellShading/M_Cell.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/CellShader/MaterialsShade/CellShading/M_Cell_Sandstone_Inst.uasset",
+				"D:/GitRep/FishInaPond/FishInaPond/Content/LevelSequences/TriggerBox2_Blueprint.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/Maps/M_LevelV2.umap",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/Systems/AI/BP_OilBlobHandler.uasset",
@@ -56,9 +72,7 @@
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/ProtoAssets/NewAssets/CoralReef3.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/ProtoAssets/NewAssets/CoralReef2.uasset",
 				"C:/GitRepos/FishInaPond/FishInaPond/Content/ProtoAssets/NewAssets/CoralReef1.uasset",
-				"C:/GitRepos/FishInaPond/FishInaPond/Content/LevelSequences/EndingLevelSequence.uasset",
-				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOIL2.uasset",
-				"D:/GitRep/FishInaPond/FishInaPond/Content/Sounds/FRACTUREDOILSONG2.uasset"
+				"C:/GitRepos/FishInaPond/FishInaPond/Content/LevelSequences/EndingLevelSequence.uasset"
 			]
 		}
 	]

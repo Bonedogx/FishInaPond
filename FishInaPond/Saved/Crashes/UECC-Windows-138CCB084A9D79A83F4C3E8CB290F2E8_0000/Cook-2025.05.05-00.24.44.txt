@@ -1,0 +1,1437 @@
+Initialized file open order log : ../../../../GitRep/FishInaPond/FishInaPond/Build/Windows/FileOpenOrder/EditorOpenOrder.log
+Stats thread started at 0.307196
+FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-138CCB084A9D79A83F4C3E8CB290F2E8
+         Session CrashGUID >====================================================
+No local boot hotfix file found at: [../../../../GitRep/FishInaPond/FishInaPond/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+Looking for build plugins target receipt
+Unable to find target receipt in path: ../../../../GitRep/FishInaPond/FishInaPond/Binaries/Win64/*.target
+Loading Android ini files took 0.05 seconds
+Loading VulkanPC ini files took 0.05 seconds
+Loading IOS ini files took 0.05 seconds
+Loading Mac ini files took 0.06 seconds
+Loading TVOS ini files took 0.06 seconds
+Loading Unix ini files took 0.06 seconds
+Loading Windows ini files took 0.06 seconds
+Loading VisionOS ini files took 0.07 seconds
+Loading Linux ini files took 0.07 seconds
+Asset registry cache read as 55.3 MiB from ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/CachedAssetRegistry_0.bin
+Loading LinuxArm64 ini files took 0.07 seconds
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Looking for enabled plugins target receipt
+Unable to find target receipt in path: ../../../../GitRep/FishInaPond/FishInaPond/Binaries/Win64/*.target
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Mounting Engine plugin Bridge
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin CmdLinkServer
+Mounting Engine plugin ChaosVD
+Mounting Engine plugin EnhancedInput
+Mounting Engine plugin Fab
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin RenderGraphInsights
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin WorldMetrics
+Mounting Engine plugin UbaController
+Mounting Engine plugin XGEController
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin VariantManager
+Mounting Engine plugin GLTFExporter
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin NiagaraSimCaching
+Mounting Engine plugin Niagara
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlate
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin NNEDenoiser
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin NNERuntimeORT
+Mounting Engine plugin Takes
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin Paper2D
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin AISupport
+Mounting Engine plugin AnimationData
+Mounting Engine plugin ACLPlugin
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin ControlRig
+Mounting Engine plugin ControlRigModules
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin DeformerGraph
+Mounting Engine plugin IKRig
+Mounting Engine plugin LiveLink
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin RigLogic
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin EngineCameras
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin DumpGPUServices
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin N10XSourceCodeAccess
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin RenderDocPlugin
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin BlueprintMaterialTextureNodes
+Mounting Engine plugin ChangelistReview
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin DataValidation
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin ColorGrading
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EngineAssetDefinitions
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin AdvancedRenamer
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin StylusInput
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin UVEditor
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin UMGWidgetPreview
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin BackChannel
+Mounting Engine plugin Buoyancy
+Mounting Engine plugin ChaosCaching
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin ChaosUserDataPT
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin Dataflow
+Mounting Engine plugin EditorDataStorage
+Mounting Engine plugin EditorPerformance
+Mounting Engine plugin EditorTelemetry
+Mounting Engine plugin Fracture
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin Landmass
+Mounting Engine plugin LocalizableMessage
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin LowLevelNetTrace
+Mounting Engine plugin NFORDenoise
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin StudioTelemetry
+Mounting Engine plugin ToolPresets
+Mounting Engine plugin WaterExtras
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin Water
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin InterchangeAssets
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin EOSShared
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioWidgets
+Mounting Engine plugin CableComponent
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin AssetTags
+Mounting Engine plugin ComputeFramework
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin HairStrands
+Mounting Engine plugin InputDebugging
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin Metasound
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin MsQuic
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin RigVM
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin StateTree
+Mounting Engine plugin InterchangeTests
+Mounting Engine plugin Synthesis
+Mounting Engine plugin USDCore
+Mounting Engine plugin WaveTable
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin PortableObjectFileDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin SQLiteCore
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin ConcertMain
+Mounting Engine plugin BaseCharacterFXEditor
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin MetaHumanSDK
+Mounting Engine plugin SkeletalMeshModelingTools
+Mounting Engine plugin LightMixer
+Mounting Engine plugin ObjectMixer
+Mounting Engine plugin HoldoutComposite
+Mounting Engine plugin XInputDevice
+Mounting Engine plugin ConcertSyncCore
+Mounting Engine plugin ConcertSyncClient
+Branch 'WaterExtras' had been unloaded. Reloading on-demand took 0.09ms
+Revision control is disabled
+Revision control is disabled
+Revision control is disabled
+Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+File 'WinPixGpuCapturer.dll' does not exist
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+NFORDenoise function starting up
+Starting StudioTelemetry Module
+Started StudioTelemetry Session
+Initializing EOSSDK Version:1.17.0-39599718
+Using libcurl 8.4.0
+ - built for Windows
+ - supports SSL with OpenSSL/1.1.1t
+ - supports HTTP deflate (compression) using libz 1.3
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_HTTP2
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+CreateHttpThread using FCurlMultiPollEventLoopHttpThread
+Creating http thread with maximum 2147483647 concurrent requests
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+ExecutableName: UnrealEditor-Cmd.exe
+Build: ++UE5+Release-5.5-CL-40574608
+Platform=WindowsEditor
+MachineId=5e7a17ec4dfcfbde5dbb3aae395717db
+DeviceId=
+Engine Version: 5.5.4-40574608+++UE5+Release-5.5
+Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
+Net CL: 37670630
+OS: Windows 11 (24H2) [10.0.26100.3775] (), CPU: 13th Gen Intel(R) Core(TM) i5-13600K, GPU: NVIDIA GeForce RTX 4090
+Compiled (64-bit): Mar  7 2025 14:49:53
+Architecture: x64
+Compiled with Visual C++: 19.38.33130.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.5
+Command Line:  D:\GitRep\FishInaPond\FishInaPond\FishInaPond.uproject -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog=D:\UE_5.5\Engine\Programs\AutomationTool\Saved\Cook-2025.05.05-00.24.44.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: D:/UE_5.5/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+Number of dev versions registered: 36
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+  FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+  FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+  Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+Branch 'EditorLayout' had been unloaded. Reloading on-demand took 0.71ms
+Branch 'Bridge' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CmdLinkServer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'FastBuildController' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MeshPainting' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'RenderGraphInsights' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'WorldMetrics' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'UbaController' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'XGEController' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OodleNetwork' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'VariantManager' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'NiagaraSimCaching' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AndroidMedia' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'AvfMedia' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ImgMedia' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MediaPlate' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MediaPlayerEditor' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'NNEDenoiser' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'WebMMedia' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'WmfMedia' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'NNERuntimeORT' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'TcpMessaging' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'LauncherChunkInstaller' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'UdpMessaging' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'EnvironmentQueryEditor' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'AISupport' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AnimationData' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ACLPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AnimationModifierLibrary' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'BlendSpaceMotionAnalysis' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ControlRigModules' had been unloaded. Reloading on-demand took 0.12ms
+Branch 'ControlRigSpline' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CameraShakePreviewer' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'RigLogic' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EngineCameras' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AnimationSharing' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'CodeLiteSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CLionSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'DumpGPUServices' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'GitSourceControl' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'KDevelopSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'N10XSourceCodeAccess' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'PerforceSourceControl' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'NullSourceCodeAccess' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'PixWinPlugin' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'PlasticSourceControl' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'PropertyAccessNode' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'AssetManagerEditor' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'RenderDocPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SubversionSourceControl' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'PluginUtils' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'RiderSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'VisualStudioCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'UObjectPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'VisualStudioSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'XCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'TextureFormatOodle' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'BlueprintHeaderView' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'BlueprintMaterialTextureNodes' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChangelistReview' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CryptoKeys' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'DataValidation' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CurveEditorTools' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ColorGrading' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EditorDebugTools' had been unloaded. Reloading on-demand took 0.09ms
+Branch 'EngineAssetDefinitions' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'FacialAnimation' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'GameplayTagsEditor' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'GeometryMode' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'MacGraphicsSwitching' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MeshLODToolset' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MaterialAnalyzer' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'MobileLauncherProfileWizard' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ModelingToolsEditorMode' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AdvancedRenamer' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ProxyLODPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PluginBrowser' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SequencerAnimTools' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'StylusInput' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'WorldPartitionHLODUtilities' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'UVEditor' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SpeedTreeImporter' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'UMGWidgetPreview' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AutomationUtils' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'BackChannel' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'Buoyancy' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChaosCaching' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChaosEditor' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChaosUserDataPT' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChaosSolverPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChaosNiagara' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CharacterAI' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'Dataflow' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EditorDataStorage' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EditorPerformance' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EditorTelemetry' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'Fracture' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'GeometryCollectionPlugin' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'GeometryFlow' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'Landmass' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'LocalizableMessage' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MeshModelingToolsetExp' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'LowLevelNetTrace' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'NFORDenoise' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PlanarCut' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PythonScriptPlugin' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SkeletalReduction' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'StudioTelemetry' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AlembicImporter' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'Water' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'LevelSequenceEditor' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'InterchangeEditor' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ActorSequence' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'SequencerScripting' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'TemplateSequence' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'EOSShared' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OnlineBase' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OnlineServices' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'ActorLayerUtilities' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OnlineSubsystem' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OnlineSubsystemNull' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'OnlineSubsystemUtils' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'AndroidFileServer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AndroidPermission' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AndroidDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AndroidMoviePlayer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AppleImageUtils' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AppleMoviePlayer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ArchVisCharacter' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AudioCapture' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AudioWidgets' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CableComponent' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'CustomMeshComponent' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'AudioSynesthesia' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ChunkDownloader' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'AssetTags' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ComputeFramework' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ExampleDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'GoogleCloudMessaging' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'GooglePAD' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'GeometryCache' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'GeometryProcessing' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'InputDebugging' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'IOSDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'LinuxDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MeshModelingToolset' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'LocationServicesBPLibrary' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'MobilePatchingUtils' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'MsQuic' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PropertyAccessEditor' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ProceduralMeshComponent' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ResonanceAudio' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SignificanceManager' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SoundFields' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'InterchangeTests' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'WaveTable' had been unloaded. Reloading on-demand took 0.09ms
+Branch 'WindowsDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'WebMMoviePlayer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'WindowsMoviePlayer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'PortableObjectFileDataSource' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ContentBrowserFileDataSource' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ContentBrowserAssetDataSource' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'OnlineSubsystemGooglePlay' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ContentBrowserClassDataSource' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'ConcertMain' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'BaseCharacterFXEditor' had been unloaded. Reloading on-demand took 0.08ms
+Branch 'OnlineSubsystemIOS' had been unloaded. Reloading on-demand took 0.07ms
+Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-demand took 0.06ms
+Branch 'LightMixer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'XInputDevice' had been unloaded. Reloading on-demand took 0.05ms
+Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.06ms
+Presizing for max 25165824 objects, including 0 objects not considered by GC.
+AsyncLoading2 - Created: Event Driven Loader: false, Async Loading Thread: false, Async Post Load: false
+AsyncLoading2 - Initialized
+Object subsystem initialized
+Set CVar [[con.DebugEarlyDefault:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+Set CVar [[r.setres:1280x720]]
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
+Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround for Nanite geometry corruption (FORT-805141)]]
+CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+Set CVar [[r.PSOPrecache.GlobalShaders:1]]
+Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
+Set CVar [[r.VRS.EnableSoftware:1]]
+Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+Set CVar [[r.GPUCrashDebugging:0]]
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Set CVar [[r.ReflectionMethod:1]]
+Set CVar [[r.GenerateMeshDistanceFields:1]]
+Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+Set CVar [[r.Shadow.Virtual.Enable:1]]
+Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Set CVar [[r.AllowStaticLighting:0]]
+Set CVar [[r.SkinCache.CompileShaders:1]]
+Set CVar [[r.RayTracing:1]]
+Set CVar [[r.DefaultFeature.LocalExposure.HighlightContrastScale:0.8]]
+Set CVar [[r.DefaultFeature.LocalExposure.ShadowContrastScale:0.8]]
+Set CVar [[r.AntiAliasingMethod:0]]
+Set CVar [[r.MSAACount:2]]
+Set CVar [[r.ScreenPercentage:25]]
+CVar [[r.UpscaleQuality:1]] deferred - dummy variable created
+Set CVar [[r.DefaultFeature.Bloom:1]]
+Set CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+Set CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Set CVar [[r.DefaultFeature.AutoExposure:1]]
+Set CVar [[r.DefaultFeature.MotionBlur:0]]
+Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+Set CVar [[s.EventDrivenLoaderEnabled:1]]
+Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+Set CVar [[s.UseBackgroundLevelStreaming:1]]
+Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+Set CVar [[s.FlushStreamingOnExit:1]]
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Set CVar [[gc.FlushStreamingOnGC:0]]
+Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Set CVar [[gc.AllowParallelGC:1]]
+Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Set CVar [[gc.MaxObjectsInEditor:25165824]]
+Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Set CVar [[gc.CreateGCClusters:1]]
+Set CVar [[gc.MinGCClusterSize:5]]
+Set CVar [[gc.AssetClustreringEnabled:0]]
+Set CVar [[gc.ActorClusteringEnabled:0]]
+Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+Set CVar [[gc.GarbageEliminationEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultASTCQualityBySpeed:2]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySizeHQ:4]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:AmbientSound]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Mobile.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Setting the console variable 'r.ScreenPercentage' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '25'
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Set CVar [[r.SkeletalMeshLODBias:0]]
+Set CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Set CVar [[r.FXAA.Quality:4]]
+Set CVar [[r.TemporalAA.Quality:2]]
+Set CVar [[r.TSR.History.R11G11B10:1]]
+Set CVar [[r.TSR.History.ScreenPercentage:200]]
+Set CVar [[r.TSR.History.UpdateQuality:3]]
+Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+Set CVar [[r.TSR.ReprojectionField:1]]
+Set CVar [[r.TSR.Resurrection:1]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Set CVar [[r.LightFunctionQuality:1]]
+Set CVar [[r.ShadowQuality:5]]
+Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+Set CVar [[r.Shadow.MaxResolution:2048]]
+Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+Set CVar [[r.Shadow.DistanceScale:1.0]]
+Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Set CVar [[r.DistanceFieldShadowing:1]]
+Set CVar [[r.VolumetricFog:1]]
+Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Set CVar [[r.LightMaxDrawDistanceScale:1]]
+Set CVar [[r.CapsuleShadows:1]]
+Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Set CVar [[r.DistanceFieldAO:1]]
+Set CVar [[r.AOQuality:2]]
+Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Set CVar [[r.SSR.Quality:3]]
+Set CVar [[r.SSR.HalfResSceneColor:0]]
+Set CVar [[r.Lumen.Reflections.Allow:1]]
+Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.8]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:1]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Set CVar [[r.MotionBlurQuality:4]]
+Set CVar [[r.MotionBlur.HalfResGather:0]]
+Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+Set CVar [[r.AmbientOcclusionLevels:-1]]
+Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Set CVar [[r.DepthOfFieldQuality:2]]
+Set CVar [[r.RenderTargetPoolMin:400]]
+Set CVar [[r.LensFlareQuality:2]]
+Set CVar [[r.SceneColorFringeQuality:1]]
+Set CVar [[r.EyeAdaptationQuality:2]]
+Set CVar [[r.BloomQuality:5]]
+Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+Set CVar [[r.FastBlurThreshold:100]]
+Set CVar [[r.Upscale.Quality:3]]
+Set CVar [[r.LightShaftQuality:1]]
+Set CVar [[r.Filter.SizeScale:1]]
+Set CVar [[r.Tonemapper.Quality:5]]
+Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Set CVar [[r.Streaming.MipBias:0]]
+Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Set CVar [[r.Streaming.Boost:1]]
+Set CVar [[r.MaxAnisotropy:8]]
+Set CVar [[r.VT.MaxAnisotropy:8]]
+Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Set CVar [[r.Streaming.PoolSize:1000]]
+Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+Set CVar [[r.RefractionQuality:2]]
+Set CVar [[r.SceneColorFormat:4]]
+Set CVar [[r.DetailMode:3]]
+Set CVar [[r.TranslucencyVolumeBlur:1]]
+Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Set CVar [[r.SSS.Scale:1]]
+Set CVar [[r.SSS.SampleSet:2]]
+Set CVar [[r.SSS.Quality:1]]
+Set CVar [[r.SSS.HalfRes:0]]
+Set CVar [[r.SSGI.Quality:3]]
+Set CVar [[r.EmitterSpawnRateScale:1.0]]
+Set CVar [[r.ParticleLightQuality:2]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Set CVar [[fx.Niagara.QualityLevel:3]]
+Set CVar [[r.Refraction.OffsetQuality:1]]
+Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Set CVar [[foliage.DensityScale:1.0]]
+Set CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Set CVar [[r.AnisotropicMaterials:1]]
+Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+Selected Device Profile: [WindowsEditor]
+Platform has ~ 32 GB [34116288512 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Pushing Device Profile CVar: [[UI.SlateSDFText.RasterizationMode:Bitmap -> Msdf]]
+Pushing Device Profile CVar: [[UI.SlateSDFText.ResolutionLevel:2 -> 2]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Set CVar [[r.DumpShaderDebugInfo:2]]
+Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+Applying CVar settings from Section [ConsoleVariables] File [D:/GitRep/FishInaPond/FishInaPond/Saved/Config/WindowsEditor/Editor.ini]
+Computer: CHRISTIAN
+User: cpdro
+CPU Page size=4096, Cores=14
+High frequency timer resolution =10.000000 MHz
+Process is running as part of a Windows Job with separate resource limits
+Memory total: Physical=31.8GB (32GB approx) Virtual=39.5GB
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 622.70 MB used, 622.70 MB peak
+Process Virtual Memory: 650.91 MB used, 650.91 MB peak
+Physical Memory: 18439.38 MB used,  14096.45 MB free, 32535.83 MB total
+Virtual Memory: 38306.90 MB used,  2176.76 MB free, 40483.66 MB total
+Metadata set : extradevelopmentmemorymb="0"
+Loaded Base TextureFormat: TextureFormatASTC
+Loaded Base TextureFormat: TextureFormatDXT
+Loaded Base TextureFormat: TextureFormatETC2
+Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+Loaded Base TextureFormat: TextureFormatUncompressed
+Oodle Texture TFO init; latest sdk version = 2.9.12
+Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded Base TextureFormat: TextureFormatOodle
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacEditor'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_SM6
+  SF_METAL_SIM
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+  SF_VULKAN_SM6
+WindowsPlatformFeatures enabled
+Chaos Debug Draw Startup
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so 'en' will be used for the language.
+Current RHI does not support Variable Rate Shading
+Initializing FReadOnlyCVARCache
+Ray tracing is disabled. Reason: not supported by current RHI.
+Memory: Max Cache Size: -1 MB
+FDerivedDataBackendGraph: Pak pak cache file ../../../../GitRep/FishInaPond/FishInaPond/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../GitRep/FishInaPond/FishInaPond/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1559 MiB)
+FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Found subprocess environment variable UE-ZenSubprocessDataPath=C:/Users/cpdro/AppData/Local/UnrealEngine/Common/Zen/Data
+InTree version at 'D:/UE_5.5/Engine/Binaries/Win64/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+Installed version at 'C:/Users/cpdro/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+Found existing instance running on port 8558 matching our settings, no actions needed
+Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+Local ZenServer AutoLaunch initialization completed in 0.003 seconds
+ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+C:/Users/cpdro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.01 seconds.
+C:/Users/cpdro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=749.32MBs, RandomWriteSpeed=93.85MBs. Assigned SpeedClass 'Local'
+Local: Using data cache path C:/Users/cpdro/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+ZenShared: Disabled because Host is set to 'None'
+Unable to find inner node ZenShared for hierarchy Hierarchy.
+Shared: Disabled because no path is configured.
+Unable to find inner node Shared for hierarchy Hierarchy.
+Cloud: Disabled because Host is set to 'None'
+Unable to find inner node Cloud for hierarchy Hierarchy.
+Guid format shader working directory is 3 characters bigger than the processId version (../../../../GitRep/FishInaPond/FishInaPond/Intermediate/Shaders/WorkingDirectory/34756/).
+Cleaned the shader compiler working directory 'C:/Users/cpdro/AppData/Local/Temp/UnrealShaderWorkingDir/419FB80A4ABB5DF78D81A38EF471F8BA/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 17 workers.
+Compiling shader autogen file: ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+FAssetRegistry took 0.0037 seconds to start up
+EditorDomain is Disabled
+AssetDataGatherer spent 0.000s loading caches ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/CachedAssetRegistry_*.bin.
+FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+Deviceprofile LinuxArm64Editor not found.
+Deviceprofile LinuxArm64 not found.
+Active device profile: [00000BB42A036400][00000BB42A4B0000 66] WindowsEditor
+Metadata set : deviceprofile="WindowsEditor"
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 8 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 9 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 10 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 11 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 13 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 14 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 16 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 17 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 19 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 20 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Merging postload groups of package /Engine/EngineMaterials/DefaultDiffuse with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 22 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 23 to allow recursive sync load to finish
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 21 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 24 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 18 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 25 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 15 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 26 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_M with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Merging postload groups of package /Engine/EngineMaterials/T_Default_Material_Grid_N with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 12 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/WorldGridMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 27 to allow recursive sync load to finish
+Merging postload groups of package /Engine/EngineMaterials/WorldGridMaterial with requester package /Engine/EngineMaterials/DefaultTextMaterialOpaque
+Texture Encode Speed: Final (cook).
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Shared linear texture encoding: Disabled
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SkeletalMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 0.37ms
+Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 0.36ms
+Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 0.36ms
+Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 0.37ms
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Border
+BreadcrumbButton
+Brushes.Title
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 0.59ms
+FWorldPartitionClassDescRegistry::Initialize started...
+FWorldPartitionClassDescRegistry::Initialize took 1.672 ms
+Branch 'Mass' had been unloaded. Reloading on-demand took 0.47ms
+Niagara Debugger Client Initialized | Session: 4C9F2908E6534A2C8000000000009A00 | Instance: CA4E6E954D293C520ABDCE9DEF70B156 (CHRISTIAN-34756).
+Available graphics and compute adapters:
+0: NVIDIA GeForce RTX 4090 (Compute, Graphics)
+1: Intel(R) UHD Graphics 770 (Compute, Graphics)
+2: Microsoft Basic Render Driver (Compute, Graphics)
+No NPU adapter found!
+MetaSound Page Target Initialized to 'Default'
+Registering Engine Module Parameter Interfaces...
+MetaSound Engine Initialized
+Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+Revision control is disabled
+Revision control is disabled
+Branch 'Crypto' had been unloaded. Reloading on-demand took 0.60ms
+Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 0.38ms
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+Updated LibraryPaths for USD plugInfo.json file 'D:/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+Loaded 0 collections in 0.000815 seconds
+Scanning file cache for directory 'D:/GitRep/FishInaPond/FishInaPond/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'D:/GitRep/FishInaPond/FishInaPond/Content/Developers/cpdro/Collections/' took 0.00s
+Scanning file cache for directory 'D:/GitRep/FishInaPond/FishInaPond/Content/Collections/' took 0.00s
+43288 objects as part of root set at end of initial load.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+AsyncLoading2 - NotifyRegistrationComplete: Registered 36605 public script object entries (991.50 KB)
+AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Not creating Chaos Debug Draw Scene for world Untitled
+UAV Float16 is not supported, compressed GPU emitters will be disabled.
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Texture streaming: Disabled
+Metadata set : largeworldcoordinates="1"
+Initializing Editor Engine Completed
+Using Python 3.11.8
+No enabled plugins with python dependencies found, skipping
+LevelSequenceEditor subsystem initialized.
+Initializing
+Initialized
+CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+CookSettings for Memory:
+	MemoryMaxUsedVirtual 0MiB
+	MemoryMaxUsedPhysical 0MiB
+	MemoryMinFreeVirtual 2048MiB
+	MemoryMinFreePhysical 2048MiB
+	MemoryTriggerGCAtPressureLevel None
+	UseSoftGC true (5/10)
+SkipOnlyEditorOnly is enabled, unsolicited packages will not be cooked unless they are referenced from the cooked version of the instigator package.
+Triggering cache save on discovery complete
+Cycle detected in parents of class /Script/RigVMDeveloper.RigVMUnitNode. Allow flags for editordomain and iterative cooking will be invalid.
+Cycle detected in parents of class /Script/LiveLinkGraphNode.K2Node_EvaluateLiveLinkFrameWithSpecificRole. Allow flags for editordomain and iterative cooking will be invalid.
+Establishing oplog 'FishInaPond.d63f743d/EditorDomain'
+Zen project 'FishInaPond.d63f743d' already exists
+Zen oplog 'FishInaPond.d63f743d/EditorDomain' already exists
+Waiting for Asset Registry
+AssetRegistryGather time 0.1139s: AssetDataDiscovery 0.0391s, AssetDataGather 0.0227s, StoreResults 0.0521s. Wall time 3.7380s.
+	NumCachedDirectories 0. NumUncachedDirectories 1896. NumCachedFiles 8669. NumUncachedFiles 15.
+	BackgroundTickInterruptions 0.
+Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+Asset registry cache written as 0.0 MiB to ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/CachedAssetRegistry_*.bin
+FULL COOK: Neither -iterative nor -cookincremental were specified. Deleting previously cooked packages for platform Windows and recooking all packages discovered in the current cook.
+Sandbox cleanup took 0.054 seconds for platforms Windows
+Compiling global changed shaders for platform 'Windows'
+Compiling shader autogen file: ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Shader autogen file written: ../../../../GitRep/FishInaPond/FishInaPond/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+C:/Users/cpdro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+Job FClusteredShadingPS(permutation 48, format PCD3D_SM5) compile time exceeded threshold (126.824s)
+Job FClusteredShadingPS(permutation 32, format PCD3D_SM5) compile time exceeded threshold (123.233s)
+Job FClusteredShadingPS(permutation 96, format PCD3D_SM5) compile time exceeded threshold (177.767s)
+Job FClusteredShadingPS(permutation 112, format PCD3D_SM5) compile time exceeded threshold (184.831s)
+
+Shader Library 'Global' (PCD3D_SM6-PCD3D_SM6) Stats:
+=================
+Assets: 1, Unique Shadermaps: 480 (48000.00%)
+Total Shaders: 7611, Unique Shaders: 7611 (100.00%)
+Total Shader Size: 83.69mb, Unique Shaders Size: 83.69mb (100.00%)
+=== Extended info:
+Minimum number of shaders in shadermap: 1
+Median number of shaders in shadermap: 3
+Maximum number of shaders in shadermap: 583
+Number of shadermaps referencing top 10 most shared shaders:
+    1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Unique shaders itemization (sorted by compressed size):
+SF_Compute: 5137 shaders (67.49%), compressed size: 55.14 MB (10.99 KB avg per shader), uncompressed size: 71.88 MB (14.33 KB avg per shader)
+SF_Pixel: 1889 shaders (24.82%), compressed size: 20.46 MB (11.09 KB avg per shader), uncompressed size: 26.96 MB (14.62 KB avg per shader)
+SF_RayGen: 427 shaders (5.61%), compressed size: 7.65 MB (18.35 KB avg per shader), uncompressed size: 9.94 MB (23.83 KB avg per shader)
+SF_Vertex: 128 shaders (1.68%), compressed size: 0.33 MB (2.67 KB avg per shader), uncompressed size: 0.41 MB (3.30 KB avg per shader)
+SF_RayHitGroup: 17 shaders (0.22%), compressed size: 0.05 MB (3.31 KB avg per shader), uncompressed size: 0.06 MB (3.87 KB avg per shader)
+SF_RayMiss: 8 shaders (0.11%), compressed size: 0.04 MB (5.71 KB avg per shader), uncompressed size: 0.06 MB (7.72 KB avg per shader)
+SF_Geometry: 3 shaders (0.04%), compressed size: 0.01 MB (2.15 KB avg per shader), uncompressed size: 0.01 MB (3.31 KB avg per shader)
+SF_WorkGraphRoot: 1 shaders (0.01%), compressed size: 0.00 MB (2.73 KB avg per shader), uncompressed size: 0.00 MB (3.35 KB avg per shader)
+SF_RayCallable: 1 shaders (0.01%), compressed size: 0.00 MB (1.40 KB avg per shader), uncompressed size: 0.00 MB (1.56 KB avg per shader)
+Textual dump saved to '../../../../GitRep/FishInaPond/FishInaPond/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-Global-PCD3D_SM6-PCD3D_SM6/Dump.txt'
+=================
+
+Shader Library 'Global' (PCD3D_SM5-PCD3D_SM5) Stats:
+=================
+Assets: 1, Unique Shadermaps: 327 (32700.00%)
+Total Shaders: 3951, Unique Shaders: 3940 (99.72%)
+Total Shader Size: 12.35mb, Unique Shaders Size: 12.35mb (99.97%)
+=== Extended info:
+Minimum number of shaders in shadermap: 1
+Median number of shaders in shadermap: 3
+Maximum number of shaders in shadermap: 303
+Number of shadermaps referencing top 10 most shared shaders:
+    3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+Unique shaders itemization (sorted by compressed size):
+SF_Pixel: 1646 shaders (41.78%), compressed size: 6.29 MB (3.91 KB avg per shader), uncompressed size: 30.55 MB (19.00 KB avg per shader)
+SF_Compute: 2188 shaders (55.53%), compressed size: 6.00 MB (2.81 KB avg per shader), uncompressed size: 22.87 MB (10.70 KB avg per shader)
+SF_Vertex: 104 shaders (2.64%), compressed size: 0.06 MB (0.58 KB avg per shader), uncompressed size: 0.13 MB (1.25 KB avg per shader)
+SF_Geometry: 2 shaders (0.05%), compressed size: 0.00 MB (0.49 KB avg per shader), uncompressed size: 0.00 MB (1.55 KB avg per shader)
+Textual dump saved to '../../../../GitRep/FishInaPond/FishInaPond/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5-PCD3D_SM5/Dump.txt'
+=================
+Discovering localized assets for cultures: en
+Found 0 localized assets
+================================================
+=== FShaderJobCache stats ===
+Total job queries 2,714, among them cache hits 0 (0.00%), DDC hits 2 (0.07%), Duplicates 746 (27.49%)
+Tracking 1,968 distinct input hashes that result in 1,765 distinct outputs (89.68%)
+RAM used: 1.34 MiB of 1.60 GiB budget. Usage: 0.08%
+=== Shader Compilation stats ===
+Shaders Compiled: 1,966
+Jobs assigned 1,966, completed 1,966 (100%)
+Average time worker was idle: 0.00 s
+Time job spent in pending queue: average 117.99 s, longest 255.98 s
+Job execution time: average 21.92 s, max 194.28 s
+Job life time (pending + execution): average 139.91 s, max 264.05
+Shader code size: average 21.431 KiB, min 144 B, max 148.316 KiB
+Time at least one job was in flight (either pending or executed): 264.37 s
+Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+Jobs were issued in 234 batches (only local compilation was used), average 8.40 jobs/batch
+Average processing rate: 7.44 jobs/sec
+Total thread time: 4,331.148 s
+Total thread preprocess time: 32.119 s
+Percentage time preprocessing: 0.74%
+Effective parallelization: 16.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 17
+Top 5 most expensive shader types by average time:
+                                         FClusteredShadingPS (compiled   32 times, average 24.50 sec, max 184.83 sec, min 2.96 sec)
+                                             FVisualizeHDRPS (compiled    1 times, average 13.33 sec, max 13.33 sec, min 13.33 sec)
+                                   FShadingFurnaceTestPassPS (compiled    1 times, average 8.27 sec, max 8.27 sec, min 8.27 sec)
+                     FRenderSingleScatteringWithPreshadingCS (compiled  144 times, average 7.55 sec, max 17.02 sec, min 1.52 sec)
+                                   FSSDSpatialAccumulationCS (compiled    1 times, average 3.72 sec, max 3.72 sec, min 3.72 sec)
+Top 5 shader types by total compile time:
+                     FRenderSingleScatteringWithPreshadingCS - 25.11% of total time (compiled  144 times, average 7.55 sec, max 17.02 sec, min 1.52 sec)
+                                            FDeferredLightPS - 19.69% of total time (compiled  302 times, average 2.82 sec, max 9.20 sec, min 0.47 sec)
+                                         FClusteredShadingPS - 18.10% of total time (compiled   32 times, average 24.50 sec, max 184.83 sec, min 2.96 sec)
+                             FVolumetricFogLightScatteringCS - 9.39% of total time (compiled  120 times, average 3.39 sec, max 6.14 sec, min 1.26 sec)
+                                   FDistanceFieldShadowingCS - 8.79% of total time (compiled  432 times, average 0.88 sec, max 1.26 sec, min 0.39 sec)
+=== Material stats ===
+Materials Cooked:        0
+Materials Translated:    0
+Material Total Translate Time: 0.00 s
+Material Translation Only: 0.00 s (0%)
+Material DDC Serialization Only: 0.00 s (0%)
+Material Cache Hits: 0 (0%)
+================================================
+Cooked packages 0 Packages Remain 473 Total 473
+Cook Diagnostics: OpenFileHandles=310, VirtualMemory=2099MiB, VirtualMemoryAvailable=6182MiB
+Garbage collection triggered (Soft). Triggered by conditions:
+  CookSettings.bUseSoftGC: Available physical memory 12242MiB is less than the current target for SoftGC 16267MiB.
+GarbageCollection... (Soft GC)
+Compacting FUObjectHashTables data took   0.31ms
+GarbageCollection Results:
+	Type: Soft
+	NumObjects:
+		Capacity:           25231360
+		Before GC:             46634
+		After GC:              46620
+		Freed by GC:              14
+	Virtual Memory:
+		Before GC:              2201 MB
+		After GC:               2201 MB
+		Freed by GC:               0 MB
+
+DG_LinearBlendSkin_Morph_Cloth_LinearBlendSkin_Morph_Cloth: Loaded PCD3D_SM6 shaders from DDC.
+DG_LinearBlendSkin_Morph_Cloth_LinearBlendSkin_Morph_Cloth: Loaded PCD3D_SM5 shaders from DDC.
+Missing cached shadermap for ControlRigGizmoMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: ed5f1dd71d090fa81865eeaa14439d030950901f), compiling. 
+Missing cached shadermap for M_DynamicMeshComponentVtxColor in PCD3D_SM5, Default, SM5, Game (DDC key hash: e8e6bc2776b02f77584e4da89e26c59580417029), compiling. 
+DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals_LinearBlendSkin_Morph_Cloth_PositionOnly: Loaded PCD3D_SM6 shaders from DDC.
+DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals_LinearBlendSkin_Morph_Cloth_PositionOnly: Loaded PCD3D_SM5 shaders from DDC.
+DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals_ComputeNormalsTangents: Loaded PCD3D_SM6 shaders from DDC.
+DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals_ComputeNormalsTangents: Loaded PCD3D_SM5 shaders from DDC.
+Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: e4cf73ef10ab331706cc5ab8e9f01427d14fff85), compiling. 
+Missing cached shadermap for PhAT_UnselectedMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 1a19e76426a16b0bc910d31fcafe8797d670438e), compiling. 
+Missing cached shadermap for PhAT_NoCollisionMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 0a1b30f262d2eaf4284e0f899e73016d2f0c77b0), compiling. 
+Missing cached shadermap for GizmoMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: f7cd8e3bce184d4fce1a68737760beac01c844ba), compiling. 
+Missing cached shadermap for DebugMeshMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 93381759c7e07b93c9fb318a3592dc6ad132b7b8), compiling. 
+Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 333c7403d7ba61bce760a39c57512db63c80f3fd), compiling. 
+Missing cached shadermap for NaniteHiddenSectionMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 220be3db31f12ac8943fd42bb8d88244fa4aa03d), compiling. 
+Missing cached shadermap for DataflowTwoSidedVertexMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: d223b338f80881c89ced7ba15596aa142156865c), compiling. 
+Missing cached shadermap for DataflowVertexMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: b61b8b97241ec7cdbd5de08de255d241cc041a0a), compiling. 
+/Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: a24469f3ec8bcd9c9e631142d157d29f9daa3a02), compiling. 
+Missing cached shadermap for DebugEditorMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: e3a0028ca9d1e20fe7d540c03b0ba91135d83229), compiling. 
+Missing cached shadermap for ControlRigXRayMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 30538db6e19ca8edaa689fbf8cbe6a6e457fd706), compiling. 
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 06653e4c01e08dfbc2ae03308116184ca009ef7c), compiling. 
+Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 473fcc2bf7c28493c266b2dec72829283322b514), compiling. 
+Missing cached shadermap for HairDefaultMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: cb7fd458fe980fe65c768df5f26e466f65429514), compiling. 
+Missing cached shadermap for DrawWaterInfo in PCD3D_SM5, Default, SM5, Game (DDC key hash: 81e464b7cabf7ba0c4da42f4c9b3c72b0f0d0fcd), compiling. 
+Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5, Game (DDC key hash: 0786a08cabe55ee83ef2a2b345b380966033cd13), compiling. 
+Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5, Game (DDC key hash: 3e2e6515018134683b60a300637e9d60562b3230), compiling. 
+Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5, Game (DDC key hash: 20c8c414bb1edefb13fd5249a233167f859bf4a3), compiling. 
+Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 8a654c19a8ff227aff1613adffc7a644e48585d3), compiling. 
+Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5, Game (DDC key hash: 89191be3af03fe090d90437cae45232a25c50b83), compiling. 
+Missing cached shadermap for Main in PCD3D_SM5, Default, SM5, Game (DDC key hash: c13d13c69a759f7b0210a5f82703aeaa6b0bc946), compiling. 
+Missing cached shadermap for M_SimpleSkyDome in PCD3D_SM6, Default, SM6, Game (DDC key hash: 2347392cf8266e2183d707bd38caaf74ca399d5d), compiling. 
+Missing cached shadermap for M_Emissive_Constant in PCD3D_SM6, Default, SM6, Game (DDC key hash: 7cdad5c886b778db5e06af6b597d25854e4dbde5), compiling. 
+Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM5, Default, SM5, Game (DDC key hash: ad4518946cb561bd4290240d5df250710f8c6621), compiling. 
+Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM5, Default, SM5, Game (DDC key hash: c3f4bbc7b63019c9d8e8dcc337727a5cea7268d4), compiling. 
+Missing cached shadermap for FlattenMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 7027f0b47001404bbb82519cb9dbdd7246056b80), compiling. 
+Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM5, Default, SM5, Game (DDC key hash: 25a8cd698f9aba6fa280e604170bf5fd21390eaa), compiling. 
+Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: b45ffc250e09e66264195483f1a941462ea1cca3), compiling. 
+Missing cached shadermap for M_Emissive_Constant in PCD3D_SM5, Default, SM5, Game (DDC key hash: f0ee724b4ed010552786f9c756c9d7403c95da0d), compiling. 
+Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 381d14fbfedc89b367f892a80fd24c2971391d11), compiling. 
+Missing cached shadermap for M_Manip in PCD3D_SM5, Default, SM5, Game (DDC key hash: 813bbbe42878e2f7e9340df984c9e15d145b5b4b), compiling. 
+Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: bb889de1396d7b1401c364a915da679c63111421), compiling. 
+Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 5181d600f90dc362f561b98c3dea29c601b934ad), compiling. 
+Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5, Game (DDC key hash: 4df89bbef83ac24912a75abee1eb458842929148), compiling. 
+Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5, Game (DDC key hash: 888c4e28aa31688a5304f4dfaeab9144e7f07b7b), compiling. 
+Missing cached shadermap for HairDebugMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 68668d03674b0ff8c67b04f3bdb9bb01b385ae24), compiling. 
+Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5, Game (DDC key hash: 79aea31cfea3acb916b58899025b6ebb0892b48a), compiling. 
+Missing cached shadermap for LinearColorPicker_MAT in PCD3D_SM6, Default, SM6, Game (DDC key hash: 21bb69ccdfb8e127f553061e64070eeed59bf8a5), compiling. 
+Missing cached shadermap for M_Ground_Moss in PCD3D_SM6, Default, SM6, Game (DDC key hash: 08a0e1c21088573df5cb4eed670608e97693d0c3), compiling. 
+Cooked packages 400 Packages Remain 305 Total 705
+Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5, Game (DDC key hash: 8589caa3a4e377b853be2d6d6f2ba1e5062401b5), compiling. 
+Missing cached shadermap for PPM_DefaultCalibrationColor in PCD3D_SM5, Default, SM5, Game (DDC key hash: 5663fc70094b54eb8d0951a45ad89d3e2f0047b2), compiling. 
+Missing cached shadermap for PPM_DefaultCalibrationGrayscale in PCD3D_SM5, Default, SM5, Game (DDC key hash: a2661433131af63af83a0101eca871dd5afb02a6), compiling. 
+Missing cached shadermap for Underwater_Haze in PCD3D_SM6, Default, SM6, Game (DDC key hash: 9a11789642da3651f0de38553cbfa65227eb6acc), compiling. 
+Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM6, Default, SM6, Game (DDC key hash: 57408b45fc0cec04324057f467b5232a7416c8b3), compiling. 
+Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: a02cf479f8ea09664626f5c0e77e546068f35722), compiling. 
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: ee7c9431346fb1ae699a7a1932af81f65917b51d), compiling. 
+Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: a9fcb08e8f3ad54c64f0f143c2169119099a532e), compiling. 
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 08412c0ab90f3227d0eb32b77ed41d55ccaebeda), compiling. Is special engine material.
+Missing cached shadermap for Caustics_Material in PCD3D_SM6, Default, SM6, Game (DDC key hash: bec26efdbe74b57b9e78b800e8c1b9170270483a), compiling. 
+Missing cached shadermap for PreviewShadowIndicatorMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: ce060bf16a8528250688b2c4fe4983cb6e272ced), compiling. 
+Missing cached shadermap for Underwater_Haze in PCD3D_SM5, Default, SM5, Game (DDC key hash: 3bb0c23fc37429ea5695f4f22b223f6fef3104a4), compiling. 
+Missing cached shadermap for M_Sky_Panning_Clouds2 in PCD3D_SM5, Default, SM5, Game (DDC key hash: a25c835dcd41660f9003277df432fc125bc78f19), compiling. 
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_4 has elements that reference missing vertices. MaxVertex=3, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=7, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=11, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=19, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_6 has elements that reference missing vertices. MaxVertex=15, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_7 has elements that reference missing vertices. MaxVertex=23, NumModelVertices=0
+Not creating Chaos Debug Draw Scene for world Entry
+Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5, Game (DDC key hash: 8c55ac401792d45c17200610ada5f4efd4852760), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5, Game (DDC key hash: 709cae819b3a2177afbe29b6a2a6fbe322f39839), compiling. 
+Missing cached shadermap for SnapGridMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 93de96a23a13f5aea400b726846a6f8ab1a0bb77), compiling. 
+Missing cached shadermap for M_Kelp in PCD3D_SM6, Default, SM6, Game (DDC key hash: a6cde0b001df1882ab323fa4bca5d7f472239092), compiling. 
+Missing cached shadermap for M_Kelp in PCD3D_SM6, Default, SM6, Game (DDC key hash: d9ac943b124ef77b73d560ab729a84edae7ba1ff), compiling. 
+Missing cached shadermap for M_BrushSprite_01 in PCD3D_SM5, Default, SM5, Game (DDC key hash: 9542401af55562030eb91399699f0fb1a2d5a401), compiling. 
+Missing cached shadermap for M_AudioMaterialMeter in PCD3D_SM5, Default, SM5, Game (DDC key hash: 129a374cc76e2ac7b3af3239894d3c4f22f995bb), compiling. 
+Missing cached shadermap for M_AudioMaterialRoundedSlider in PCD3D_SM5, Default, SM5, Game (DDC key hash: bd186d027d3a3a08427e3c5f6247d2b2a5a196d7), compiling. 
+Missing cached shadermap for M_AudioMaterialEnvelope_ADSR in PCD3D_SM5, Default, SM5, Game (DDC key hash: 433a993c5dba7738a3d587d7a564bdbf04a1ba21), compiling. 
+Missing cached shadermap for M_AudioMaterialKnob in PCD3D_SM5, Default, SM5, Game (DDC key hash: 6425bb5df7f8721149bbbab276bb0a87fe20d2d5), compiling. 
+Missing cached shadermap for M_AudioMaterialToggleButton in PCD3D_SM5, Default, SM5, Game (DDC key hash: 045878f2adfe0a78e04c5d8dd47792328543db8c), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5, Game (DDC key hash: e58c64864c7e6f9002031e952ce67e1e7e5b5735), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5, Game (DDC key hash: d99b548199d65ea8238fe01c1155c65282fb25ee), compiling. 
+Missing cached shadermap for BrushBounds in PCD3D_SM5, Default, SM5, Game (DDC key hash: 1fc46aa7116705ed23d7df75f237dfd4838345ed), compiling. 
+Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5, Game (DDC key hash: 5a8e3ded066b970caa4043287d6cfa41607c6ed9), compiling. 
+Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5, Game (DDC key hash: b4f533c1fb0ab20ac698ac280fed0f1abea6fe6a), compiling. 
+Missing cached shadermap for Caustics_Material in PCD3D_SM5, Default, SM5, Game (DDC key hash: 4750e481aab16dd36a15a0175b86161f6432e390), compiling. 
+Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5, Game (DDC key hash: 88d5a97a947a041174a5d6e1f1da63b22340b5e9), compiling. 
+Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5, Game (DDC key hash: 5f77ffd066861d3c58abcd0b11116dcbe14e80d2), compiling. 
+Missing cached shadermap for M_Oil in PCD3D_SM6, Default, SM6, Game (DDC key hash: c2cc907c713eaf79ad5ef734543d3bc5224fdb1b), compiling. 
+Going up to parent DeviceProfile []
+Missing cached shadermap for M_SimpleSkyDome in PCD3D_SM5, Default, SM5, Game (DDC key hash: 90f43bd03ed38994e4ac8c589babad7462889ce4), compiling. 
+Missing cached shadermap for M_Cell in PCD3D_SM6, Default, SM6, Game (DDC key hash: d9466f3ea5ae5298b2d4fc14c1181024f9a0f080), compiling. 
+Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM6, Default, SM6, Game (DDC key hash: 25d84269fd32287715dddac4592580d3fc1ed073), compiling. 
+Missing cached shadermap for M_ScreenDMG in PCD3D_SM6, Default, SM6, Game (DDC key hash: 6b2bacb65926f7f5aa49b3f58269aa5d7526f957), compiling. 
+Missing cached shadermap for M_Unlit in PCD3D_SM5, Default, SM5, Game (DDC key hash: ffd1ff6e21ba052cdf916c4f80d1119819340102), compiling. 
+Missing cached shadermap for M_Oil in PCD3D_SM5, Default, SM5, Game (DDC key hash: d72b27ebc9ec22452e28a5c0e0a9e4fb5d434ea7), compiling. 
+Missing cached shadermap for M_Cell in PCD3D_SM5, Default, SM5, Game (DDC key hash: 1ed7a603240af3ecfda9ee094d0326eea5ed892b), compiling. 
+Missing cached shadermap for M_ScreenDMG in PCD3D_SM5, Default, SM5, Game (DDC key hash: 292e86a44bf54ad25308c6292d0b0311ef20672f), compiling. 
+Missing cached shadermap for M_Sheen in PCD3D_SM5, Default, SM5, Game (DDC key hash: 8c42cb94c10961bdf2d468188db2c52a69c61d39), compiling. 
+Missing cached shadermap for M_Transmission in PCD3D_SM5, Default, SM5, Game (DDC key hash: 8282d10bdfe71a82a58afc5ff5c6e7703d893765), compiling. 
+Missing cached shadermap for M_SpecularGlossiness in PCD3D_SM5, Default, SM5, Game (DDC key hash: a188c8ec87a951f366aa03073dd40b404852cffb), compiling. 
+Missing cached shadermap for MI_PrototypeGrid_Gray in PCD3D_SM6, Default, SM6, Game (DDC key hash: e27073557c25d2921d3194b9d27ddc901598a345), compiling. 
+Missing cached shadermap for MI_Unlit_Mask in PCD3D_SM5, Default, SM5, Game (DDC key hash: 7f123b6e11dd32e234acaaed9b8de397dfb1c0fb), compiling. 
+Missing cached shadermap for MI_Unlit_Blend in PCD3D_SM5, Default, SM5, Game (DDC key hash: e883f944327ac65e5ae7efab8f13a7b734541701), compiling. 
+Missing cached shadermap for MI_Unlit_Opaque_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: fcda8b05f4d451be5c169293d1ed4e33e3ccc5f2), compiling. 
+Missing cached shadermap for MI_Unlit_Mask_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: a36a20f8a9f18dce06d3dc89c8e31c9593a5a730), compiling. 
+Missing cached shadermap for MI_Unlit_Blend_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 42c21869a725d98a372249f5d02cefd59414ab11), compiling. 
+Missing cached shadermap for M_PrototypeGrid in PCD3D_SM6, Default, SM6, Game (DDC key hash: a10c1e3800f7ab0a7ac5402ce782708c4d39bbac), compiling. 
+Missing cached shadermap for MI_ClearCoat_Mask in PCD3D_SM5, Default, SM5, Game (DDC key hash: ff00bdf663005c3920da55295a37c195c3c7026e), compiling. 
+Missing cached shadermap for MI_ClearCoat_Blend in PCD3D_SM5, Default, SM5, Game (DDC key hash: 2b0ff95b0715ebdfbd71e41fd7c83910e68b0294), compiling. 
+Missing cached shadermap for MI_ClearCoat_Opaque_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 3aac91af04b2b538cf6b5a217ee8b48792db07c3), compiling. 
+Missing cached shadermap for MI_ClearCoat_Mask_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 5035d724649e9ec001aa61cee1924efd7d9ef3d9), compiling. 
+Missing cached shadermap for MI_ClearCoat_Blend_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: ce172851dff1141f5465e4f654abddc14861eb40), compiling. 
+Missing cached shadermap for MI_Sheen_Mask in PCD3D_SM5, Default, SM5, Game (DDC key hash: 923b4b3e98b62ca6c53e01f7e05945a1b33f5895), compiling. 
+Missing cached shadermap for MI_Sheen_Blend in PCD3D_SM5, Default, SM5, Game (DDC key hash: bd99f024a11ebe08839c19e7e279d5b32d10ea49), compiling. 
+Missing cached shadermap for MI_Sheen_Opaque_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 2a75904a6c340b8091977af653fbb7b1526ef389), compiling. 
+Missing cached shadermap for MI_Sheen_Mask_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 341e7c60762665dbba77381373c017417026bdf0), compiling. 
+Missing cached shadermap for MI_Sheen_Blend_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: fbc90c2383b5d6edf018de26e94fda0e582d7912), compiling. 
+Missing cached shadermap for MI_Transmission_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 03681eb3352721812d42e2b3d6aa5dbdafe2fc3a), compiling. 
+Missing cached shadermap for MI_SpecularGlossiness_Mask in PCD3D_SM5, Default, SM5, Game (DDC key hash: 56183288ec82a65be29f24a1e9136e51ba4e1b2c), compiling. 
+Missing cached shadermap for LinearColorPicker_MAT in PCD3D_SM5, Default, SM5, Game (DDC key hash: c7bbb55b0d0e1bc7b8aded33a278ab4e883791e5), compiling. 
+Cooked packages 618 Packages Remain 87 Total 705
+Missing cached shadermap for MI_SpecularGlossiness_Blend in PCD3D_SM5, Default, SM5, Game (DDC key hash: 23b3ceac5d9e2f2ebb1b1ad7aaed6df3df5823fb), compiling. 
+Missing cached shadermap for MI_SpecularGlossiness_Opaque_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: e2a63b35679e30e78be51180fdbef29ad2038bba), compiling. 
+Missing cached shadermap for MI_SpecularGlossiness_Mask_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 94f57095eea2f58e83c7cad4c7c0edc57bdad5b8), compiling. 
+Missing cached shadermap for MI_SpecularGlossiness_Blend_DS in PCD3D_SM5, Default, SM5, Game (DDC key hash: 7177074bf2aeccbc9b9e3e00c12a1465f69de93f), compiling. 
+Cooked packages 639 Packages Remain 66 Total 705
+Missing cached shadermap for M_Default in PCD3D_SM5, Default, SM5, Game (DDC key hash: 6ea0d36c15e47ee9bd0e55346767dc7b38b0fe85), compiling. 
+Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5, Game (DDC key hash: 762b355ca1031c62d5ad1665a2e490190d023687), compiling. 
+Missing cached shadermap for Water_Material_Ocean_LOD in PCD3D_SM6, Default, SM6, Game (DDC key hash: f626437e90c85eddfbdb49e21a4122d69944d71d), compiling. 
+
+
+Script Stack (0 frames) :
+
+FPlatformStackWalk::StackWalkAndDump -  0.102 s
+begin: stack for UAT
+=== Handled ensure: ===
+
+Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\LevelScriptActor.cpp] [Line: 42] 
+Detected the creation of more than one LevelScriptActor (/Game/Maps/M_LevelV2.M_LevelV2:PersistentLevel.M_LevelV2_C_1, /Game/Maps/M_LevelV2.M_LevelV2:PersistentLevel.M_LevelV2_C_6) within the same outer. This can lead to duplicate level blueprint operations during play.
+Stack: 
+[Callstack] 0x00007ffb495a9a04 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffb47cbcbd6 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffb62271179 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61fce6ad UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61fb7dbd UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb47cb2071 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffb47d3fd23 UnrealEditor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ffb61ffebf3 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61fcf26f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61c9c7dc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61c9064d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61ffee43 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61fcec07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d55ada UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d62525 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d68e7c UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d6a555 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d89896 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61dae5f9 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61d70e24 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61ddcced UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb61ddc9dc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb62240c97 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb6223ff55 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb62240556 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ffb4499e371 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb4499e664 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb449af536 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb449d2cd4 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb449d249c UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb4465c910 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb44618267 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ffb44639153 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff612dbeb4e UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ff612db5566 UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ff612db589a UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ff612db9114 UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ff612dcbd04 UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ff612dce422 UnrealEditor-Cmd.exe!UnknownFunction []
+[Callstack] 0x00007ffc4ac8e8d7 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffc4c8514fc ntdll.dll!UnknownFunction []
+
+end: stack for UAT
+               SubmitErrorReport -  0.000 s

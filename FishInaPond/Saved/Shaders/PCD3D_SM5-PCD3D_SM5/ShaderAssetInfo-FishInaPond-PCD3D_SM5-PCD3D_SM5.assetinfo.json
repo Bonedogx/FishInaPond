@@ -74,6 +74,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C2F40A1F15852A3A4075617F053D3D91D987633D",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
+			]
+		},
+		{
 			"ShaderMapHash": "916C5C1F112A8BC021B38D5FCB559130E3924FA9",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -140,15 +146,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "20051039EB56B77B3E44369422126F6BDAA6CF45",
-			"Assets": [
-				"/Game/Maps/M_LevelV2"
-			]
-		},
-		{
 			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "00FA033DA5ED82DA0FDA56E0CB77C9793005462C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Moss"
 			]
 		},
 		{
@@ -179,6 +185,12 @@
 			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "0C68C04BD56F0A7DB261BD73D6BC5055BC4C0C9D",
+			"Assets": [
+				"/Game/Player/Blueprints/M_ScreenDMG"
 			]
 		},
 		{
@@ -236,6 +248,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "30112E5C5F6B9A720618E233484AB42071033C41",
+			"Assets": [
+				"/Game/Maps/M_LevelV2"
+			]
+		},
+		{
+			"ShaderMapHash": "5448E35C469E736BD99098AB3C3DE55389A0EC5E",
+			"Assets": [
+				"/Game/CellShader/MaterialsShade/CellShading/M_Cell"
+			]
+		},
+		{
 			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
@@ -278,9 +302,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2458497326D303DA0995B385B02919D0125C14C5",
+			"Assets": [
+				"/Game/ProtoAssets/M_Kelp"
+			]
+		},
+		{
 			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "51613B773702BBD45C2E23994817480C8139C380",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
 			]
 		},
 		{
@@ -299,12 +335,6 @@
 			"ShaderMapHash": "82618B7B1A4F661BB746654CBDE362B1A200C8C1",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -363,6 +393,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "39732B95BB2385BE7259E8BC19CCA2592F029E98",
+			"Assets": [
+				"/Game/VFX/NewNiagaraSystem2"
+			]
+		},
+		{
 			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
@@ -384,6 +420,12 @@
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A902A3A27C5661885FEB425518EA19B6CEC7103B",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -532,6 +574,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "846DDED18DE3F7420126C19AD2CEFB022744B712",
+			"Assets": [
+				"/Engine/EditorMaterials/Utilities/LinearColorPicker_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "53D6EDD41C1966D080F44CB65C2DC6826051D1B1",
 			"Assets": [
 				"/Landmass/Landscape/BlueprintBrushes/Materials/Sprite/M_BrushSprite_01"
@@ -552,7 +600,6 @@
 		{
 			"ShaderMapHash": "4AC52FE013AF879362301B04F13C98B014BD6FAC",
 			"Assets": [
-				"/Water/Materials/WaterSurface/Water_Material",
 				"/Water/Materials/WaterSurface/Water_Material_Inst"
 			]
 		},
@@ -623,12 +670,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B2F3A3FC2F5B565CE55C611B23A6FB43D9896F81",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Sandstone"
-			]
-		},
-		{
 			"ShaderMapHash": "8814BEFCA7D7C447F558F097189C578E4D1B0847",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
@@ -647,9 +688,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "593B21FE43DD172E96BF5BE1A4149E3038C4AE7F",
+			"ShaderMapHash": "B18C7DFDEE84D35E2A09A36C692DC78705B7F00C",
 			"Assets": [
-				"/Game/ProtoAssets/M_Kelp"
+				"/Game/Maps/M_LevelV2"
 			]
 		},
 		{

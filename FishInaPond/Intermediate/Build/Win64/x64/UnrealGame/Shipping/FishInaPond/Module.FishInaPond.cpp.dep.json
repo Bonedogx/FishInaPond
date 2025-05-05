@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gitrep\\fishinapond\\fishinapond\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fishinapond\\module.fishinapond.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gitrep\\fishinapond\\fishinapond\\intermediate\\build\\win64\\x64\\fishinapond\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gitrep\\fishinapond\\fishinapond\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fishinapond\\definitions.fishinapond.h",
+            "d:\\gitrep\\fishinapond\\fishinapond\\intermediate\\source\\fishinapond.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
