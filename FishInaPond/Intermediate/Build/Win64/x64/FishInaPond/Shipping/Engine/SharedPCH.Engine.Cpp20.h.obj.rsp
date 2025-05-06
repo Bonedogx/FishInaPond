@@ -1,4 +1,4 @@
-"D:\GitRep\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.cpp"
+"C:\GitRepos\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealGame\Inc\Engine\UHT"
 /I "Runtime\Engine\Classes"
@@ -122,16 +122,16 @@
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
 /external:I "ThirdParty\OpenGL"
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.33130\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
 /Yc"SharedPCH.Engine.Cpp20.h"
-/Fp"D:\GitRep\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"D:\GitRep\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.obj"
-/experimental:log "D:\GitRep\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.sarif"
-/sourceDependencies "D:\GitRep\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.dep.json"
+/Fp"C:\GitRepos\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\GitRepos\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.obj"
+/experimental:log "C:\GitRepos\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.sarif"
+/sourceDependencies "C:\GitRepos\FishInaPond\FishInaPond\Intermediate\Build\Win64\x64\FishInaPond\Shipping\Engine\SharedPCH.Engine.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

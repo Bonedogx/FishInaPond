@@ -274,6 +274,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B5A0DA8173B641640E4A250C54F3D0830D319DBA",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "EF737682B94EAE7E253307CBCDC97D21E9183578",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
@@ -295,12 +301,6 @@
 			"ShaderMapHash": "CA83D887357702E037AA25445644833D4702BB0D",
 			"Assets": [
 				"/Game/CellShader/MaterialsShade/CellShading/M_Cell"
-			]
-		},
-		{
-			"ShaderMapHash": "21E3F187ABE0647B0E48C3F8A83074EE5DEA37F7",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -355,6 +355,12 @@
 			"ShaderMapHash": "B08ACB97EF558CBD8C2CD8603557759B5621B22A",
 			"Assets": [
 				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "69F584980A94A6DBE70A6B9A35DA375CB5304AEA",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
 			]
 		},
 		{
@@ -566,12 +572,6 @@
 			"ShaderMapHash": "F6DB64D84DB2C5C862490BC3682AA6ED00D0109F",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "922D47D9D15FEA4DFC2374BF980E0085FBAD0C09",
-			"Assets": [
-				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
 			]
 		},
 		{

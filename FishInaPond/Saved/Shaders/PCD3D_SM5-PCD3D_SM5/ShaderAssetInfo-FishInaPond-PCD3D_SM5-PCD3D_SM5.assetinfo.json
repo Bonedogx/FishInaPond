@@ -26,6 +26,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C0D3360F724B7DEA5EADB29F4ADED5FFBEBC5905",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
+			]
+		},
+		{
 			"ShaderMapHash": "EEAD3B104A9473585B8F3E1A9B09D465BB51FAFA",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
@@ -71,12 +77,6 @@
 			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "C2F40A1F15852A3A4075617F053D3D91D987633D",
-			"Assets": [
-				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Constant"
 			]
 		},
 		{
@@ -338,6 +338,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
@@ -420,12 +426,6 @@
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A902A3A27C5661885FEB425518EA19B6CEC7103B",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -600,6 +600,7 @@
 		{
 			"ShaderMapHash": "4AC52FE013AF879362301B04F13C98B014BD6FAC",
 			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material",
 				"/Water/Materials/WaterSurface/Water_Material_Inst"
 			]
 		},

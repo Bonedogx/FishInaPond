@@ -476,6 +476,7 @@
 /Game/ThirdPerson/Input/Actions/IA_Jump
 /Game/ThirdPerson/Input/Actions/IA_Look
 /Game/ThirdPerson/Input/Actions/IA_Move
+/Game/ThirdPerson/Input/Actions/IA_Pause
 /Game/ThirdPerson/Input/Actions/IA_Sprint
 /Game/ThirdPerson/Input/Actions/IA_SwimDown
 /Game/ThirdPerson/Input/Actions/IA_SwimUp
